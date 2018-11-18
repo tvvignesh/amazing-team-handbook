@@ -47,3 +47,5 @@ This repository defines how an amazing team works. This is meant to be a transpa
 4. https://github.com/jesselpalmer/awesome-engineering-managers-handbook
 5. https://github.com/joho/awesome-code-review
 6. https://rework.withgoogle.com/
+7. https://www.allthingsdistributed.com/2006/11/working_backwards.html
+8. https://www.amazon.jobs/en/principles
